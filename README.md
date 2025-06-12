@@ -9,7 +9,7 @@
 * ...
 
 ## Screenshots
-### TDD, DDT test script with JUnit.
+### TDD, DDT test script with JUnit
 ![TDD DDT test script](https://github.com/ng-dhp/MathUtility/blob/main/screenshots/TDD_DDT_With_Junit.png)
 
 ### Build app with Maven
