@@ -1,5 +1,7 @@
 # Welcome to Math Utility Repository
 
+[![Math Utility Project (CI included) | © 2025 by MrDuy.LV](https://github.com/ng-dhp/MathUtility/actions/workflows/ci-script.yml/badge.svg)](https://github.com/ng-dhp/MathUtility/actions/workflows/ci-script.yml)
+
 ## You will find in this repo the following stuff:
 
 * A java project to provide a Math library aka java.util.Math in JDK
